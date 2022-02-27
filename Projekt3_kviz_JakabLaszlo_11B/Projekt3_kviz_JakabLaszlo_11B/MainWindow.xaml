@@ -5,8 +5,21 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Projekt3_kviz_JakabLaszlo_11B"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Tanulás ellenörző teszt" Height="400" Width="650">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="193*"/>
+            <ColumnDefinition Width="599*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Válassz tantárgyat:" FontStyle="Italic" HorizontalAlignment="Left" Height="30" Margin="7,20,0,0" VerticalAlignment="Top" Width="110"/>
+        <ComboBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="116,23,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.508,0.909"/>
+        <Label Content="Válassz témakört:" FontStyle="Italic" Grid.Column="1" HorizontalAlignment="Left" Margin="96,20,0,0" VerticalAlignment="Top"/>
+        <ComboBox Grid.Column="1" HorizontalAlignment="Left" Margin="198,23,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="tesztInditasaGomb" Content="A teszt indítása" FontWeight="Bold" Grid.Column="1" HorizontalAlignment="Left" Margin="346,15,0,0" VerticalAlignment="Top" Width="120" Height="45"/>
+        <Label Grid.ColumnSpan="2" Content="" HorizontalAlignment="Left" Height="40" Margin="30,75,0,0" VerticalAlignment="Top" Width="315"/>
+        <Button x:Name="elozoGomb" Content="Előző kérdés" HorizontalAlignment="Left" Margin="106,304,0,0" VerticalAlignment="Top" Width="115" Height="25" Grid.ColumnSpan="2"/>
+        <Button x:Name="kovetkezoGomb" Content="Következő kérdés" HorizontalAlignment="Left" Margin="84,305,0,0" VerticalAlignment="Top" Width="115" Grid.Column="1" Height="25"/>
+        <Button x:Name="kiertekelGomb" Content="A teszt kiértékelése" FontWeight="Bold" Grid.Column="1" HorizontalAlignment="Left" Margin="339,294,0,0" VerticalAlignment="Top" Width="120" Height="45"/>
+
     </Grid>
 </Window>
