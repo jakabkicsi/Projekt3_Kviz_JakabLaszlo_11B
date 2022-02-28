@@ -1,0 +1,7 @@
+irodalom;Ady Endre;Hol született Ady Endre?;Érdmindszent;Hajdúbagos;Pécs;Marosvásárhely
+irodalom;Ady Endre;Mikor jelent meg az első verses kötete?;1899;1999;1886;1903
+irodalom;Ady Endre;Mikor vette feleségül Csinszkát?;1915;1909;2002;1914
+irodalom;Ady Endre;Hol ismerkedett meg Lédával?;Nagyvárad;Kolozsvár;Duranda;Tiszavasvári
+irodalom;Ady Endre;Hová invitálta őt Léda?;Párizs;Bécs;Maldív-szigetek;Alfonz
+irodalom;Ady Endre;Mikor ismerkedett meg Diósy Brüll Adéllal?;1904;1900;1916;1897
+irodalom;Ady Endre;Hány éves volt Csinszka, amikor ráírt Adyra?;16;42;14;23

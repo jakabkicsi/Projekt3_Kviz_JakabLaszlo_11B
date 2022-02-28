@@ -1,0 +1,14 @@
+történelem;magyar reformkor;Mit jelent a diéta szó?;országgyűlés;helytartótanács;nemes;egyik sem
+történelem;magyar reformkor;Kik alkották a felsőtáblát?;bárók;vármegyék követei;egyik sem;mindkettő
+történelem;magyar reformkor;Mikor volt az első reformországgyűlés?;1832;1830;1842;1848
+történelem;magyar reformkor;Mikor jelent meg Széchenyi a Világ című írása?;1831;1827;1848;1840
+történelem;magyar reformkor;Mely reforprogram tartalmazta a törvény előtti egyenlőséget?;mindkettő;Kossuth programja;Szechenyi programja;egyik sem
+történelem;magyar reformkor;Mely íromány rendszerezte Széchenyi 12pontját?;Stádium;Pesti Hírlap;Világ;Hitel
+történelem;magyar reformkor;Mikor lett a magyar nyelv ujra államnyelv?;1844;1848;1956;1843
+történelem;magyar reformkor;Mikor volt az utolsó rendi országgyűlés?;1847;1848;1849;1846
+történelem;magyar reformkor;Ki(k) álltak a reformellenzék élén?;mindhárman;Kossuth Lajos;Batyhányi Lajos;Deák Ferenc
+történelem;magyar reformkor;Pesti forradalom időpontja?;1848.03.15.;1848.04.11.;1848.02.;egyik sem
+történelem;magyar reformkor;Mikor szetesítették az áprilisi törvényeket?;egyik sem;1848.04.15.;1848.04.23;1848.04.30
+történelem;magyar reformkor;Mi történt 1849 április 14-én?;Függetlenségi nyilatkozat kiadása;Áprilisi törvények;Magyar Szabadságharc;Pesti forradalom
+történelem;magyar reformkor;Hol volt a magyar fegyverletétel?;Világosnál;Bécsnél;Aradon;Pesten
+történelem;magyar reformkor;Mikor voltak a kivégzések?;1849 okt. 6;1849 okt. 6;1849 aug. 13;1849 apr. 14.
