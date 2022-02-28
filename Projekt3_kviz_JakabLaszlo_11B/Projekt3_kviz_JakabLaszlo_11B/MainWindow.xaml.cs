@@ -109,14 +109,15 @@ namespace Projekt3_kviz_JakabLaszlo_11B
 
         }
 
-        private void tesztInditasaGomb_Click(object sender, RoutedEventArgs e)
+       
+
+        private void kilepesGomb_Click(object sender, RoutedEventArgs e)
         {
-
-
-            for (int i = 0; i < tantargyak.Count; i++)
-            {
-             
-            }
+            Close();
         }
+
+       
+
+        
     }
 }
