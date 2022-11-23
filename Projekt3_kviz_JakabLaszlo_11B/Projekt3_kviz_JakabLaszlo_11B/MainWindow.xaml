@@ -8,10 +8,10 @@
         Title="Tanulás ellenörző teszt" Height="400" Width="650">
     <Grid Background="#FFCFCFCF">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="193*"/>
+            <ColumnDefinition Width="193*"/>  
             <ColumnDefinition Width="599*"/>
         </Grid.ColumnDefinitions>
-        <Label Content="Válassz tantárgyat:" FontStyle="Italic" HorizontalAlignment="Left" Height="30" Margin="7,20,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Válassz tantárgyat:" FontStyle="Italic" HorizontalAlignment="Left" Height="40" Margin="7,20,0,0" VerticalAlignment="Top" Width="110"/>
         <ComboBox x:Name="tantargyBox" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="116,23,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.508,0.909"/>
         <Label Content="Válassz témakört:" FontStyle="Italic" Grid.Column="1" HorizontalAlignment="Left" Margin="96,20,0,0" VerticalAlignment="Top"/>
         <ComboBox x:Name="temakorBox" Grid.Column="1" HorizontalAlignment="Right" Margin="0,22,164,0" VerticalAlignment="Top" Width="120"/>
