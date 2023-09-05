@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -82,6 +82,7 @@ namespace Projekt3_kviz_JakabLaszlo_11B
                 string irodalom1 = sor.Split(';')[0];
                 tantargyak.Add(irodalom1);
                 tantargyBox.Items.Add(irodalom1);
+                break;
 
                 for (int i = 0; i < irodalom.Length; i++)
                 {
